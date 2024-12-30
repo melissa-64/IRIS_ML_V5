@@ -1,0 +1,45 @@
+{
+    "defaultListView": true,
+    "loaders": [
+        {
+            "id": "UA",
+            "name": "BO6 UNLOCK ALL",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/UNLOCK_ALL.gif",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT_EXT.exe",
+            "status": "updating"
+        },
+        {
+            "id": "MW2-MW3-BO6 EXTERNAL CHAIR",
+            "name": "MW2/MW3/BO6 EXTERNAL CHAIR",
+            "categoryId": "bo6",
+            "imageUrl": "",
+            "downloadUrl": "https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe",
+            "status": "online"
+        },
+        {
+            "id": "VIP CHAIR",
+            "name": "BO6 VIP CHAIR",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VIP_CHAIR.gif",
+            "downloadUrl": "https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe",
+            "status": "online"
+        },
+        {
+            "id": "LOUD CHAIR",
+            "name": "BO6 LOUD CHAIR",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/LOUD_CHAIR.gif",
+            "downloadUrl": "https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe",
+            "status": "online"
+        },
+        {
+            "id": "FORTNITE PRIVATE",
+            "name": "FORTNITE EXTERNAL CHAIR",
+            "categoryId": "fortnite",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.gif",
+            "downloadUrl": "https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe",
+            "status": "online"
+        }
+    ]
+}
