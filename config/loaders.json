@@ -1,5 +1,4 @@
 {
-    "defaultListView": true,
     "loaders": [
         {
             "id": "UA",
@@ -7,7 +6,7 @@
             "categoryId": "bo6",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/UNLOCK_ALL.gif",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT_EXT.exe",
-            "status": "updating"
+            "status": "online"
         },
         {
             "id": "LOUD CHAIR",
