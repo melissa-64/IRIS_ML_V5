@@ -40,6 +40,14 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.gif",
             "downloadUrl": "https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe",
             "status": "online"
+        },
+        {
+            "id": "TEST",
+            "name": "TEST",
+            "categoryId": "bo6",
+            "downloadUrl": "default NIGHTWARE ML_V4 : logo : https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/nightware_default_logo.png background : https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/nightware_default_background.png lateral menu : https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/nightware_default_lateral.png news page : https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/support_sentence_v1.png",
+            "status": "online",
+            "imageUrl": "default NIGHTWARE ML_V4 : logo : https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/nightware_default_logo.png background : https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/nightware_default_background.png lateral menu : https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/nightware_default_lateral.png news page : https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/support_sentence_v1.png"
         }
     ]
 }
