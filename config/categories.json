@@ -7,7 +7,7 @@
         "primary": "#7fca2a"
       },
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MW2.png",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "mw3",
@@ -52,7 +52,7 @@
         "primary": "#ff7100"
       },
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Fivem.png",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "cs2",
@@ -61,7 +61,7 @@
         "primary": "#fcac19"
       },
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/cs2.png",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "rust",
@@ -70,7 +70,7 @@
         "primary": "#f0514b"
       },
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/rust.png",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "apex",
@@ -79,7 +79,7 @@
         "primary": "#ed1b24"
       },
       "logoUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/apex.png",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "others",
