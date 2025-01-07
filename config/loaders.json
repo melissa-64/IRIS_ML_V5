@@ -80,22 +80,6 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
             "status": "online"
-        },
-        {
-            "id": "FORTNITE PRIVATE",
-            "name": "FORTNITE EXTERNAL CHAIR",
-            "categoryId": "mw3",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.gif",
-            "downloadUrl": "https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe",
-            "status": "online"
-        },
-        {
-            "id": "MW2-MW3-BO6 EXTERNAL CHAIR",
-            "name": "MW2/MW3/BO6 EXTERNAL CHAIR",
-            "categoryId": "mw3",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe",
-            "status": "online"
         }
     ]
 }
