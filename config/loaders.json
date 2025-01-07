@@ -5,48 +5,80 @@
             "id": "UA",
             "name": "BO6 UNLOCK ALL",
             "categoryId": "bo6",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/UNLOCK_ALL.gif",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT_EXT.exe",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ua.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRIS-UA.exe",
+            "status": "online"
+        },
+        {
+            "id": "SILENT",
+            "name": "BO6 SILENT CHAIR",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/SILENT_BO6_VISU.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_SILENT_IRIS.exe",
+            "status": "online"
+        },
+        {
+            "id": "loader3",
+            "name": "BO6 OMBRA CHAIR",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_OMBRA_VISU.png",
+            "downloadUrl": "https://files.anewvision.fr/ldr_Sux0YEW.exe",
             "status": "online"
         },
         {
             "id": "LOUD CHAIR",
             "name": "BO6 LOUD CHAIR",
             "categoryId": "bo6",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/LOUD_CHAIR.gif",
-            "downloadUrl": "https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6loud.png",
+            "downloadUrl": "https://files.anewvision.fr/ldr_Sux0YEW.exe",
             "status": "online"
         },
         {
-            "id": "FORTNITE PRIVATE",
-            "name": "FORTNITE EXTERNAL",
+            "id": "PROGRESS",
+            "name": "BO6 EXTERNAL PROGRESS",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ext.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/PROGRESS.exe",
+            "status": "online"
+        },
+        {
+            "id": "LDV2",
+            "name": "BO6 EXTERNAL LDV2",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ext.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/LD1027.exe",
+            "status": "online"
+        },
+        {
+            "id": "AFK BOT",
+            "name": "BO6 AFK BOT",
+            "categoryId": "bo6",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/afkbot.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISAFKBOT.exe",
+            "status": "online"
+        },
+        {
+            "id": "VALORANT EXTERNAL",
+            "name": "VALORANT EXTERNAL CHAIR",
             "categoryId": "valorant",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.gif",
-            "downloadUrl": "https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT1.1.exe",
             "status": "online"
         },
         {
-            "id": "MW2-MW3-BO6 EXTERNAL CHAIR",
-            "name": "MW2/MW3/BO6 EXTERNAL CHAIR",
+            "id": "FORTNITE EXTERNAL",
+            "name": "FORTNITE EXTERNAL CHAIR",
             "categoryId": "fortnite",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE_UNBRANDED.exe",
             "status": "online"
         },
         {
-            "id": "UA",
-            "name": "BO6 UNLOCK ALL",
-            "categoryId": "bo6",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/UNLOCK_ALL.gif",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT_EXT.exe",
-            "status": "online"
-        },
-        {
-            "id": "LOUD CHAIR",
-            "name": "BO6 LOUD CHAIR",
-            "categoryId": "mw3",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/LOUD_CHAIR.gif",
-            "downloadUrl": "https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe",
+            "id": "PC OPTIMIZER",
+            "name": "IRIS PC OPTIMIZER",
+            "categoryId": "others",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
             "status": "online"
         },
         {
