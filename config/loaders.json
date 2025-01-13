@@ -7,7 +7,7 @@
             "categoryId": "bo6",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ua.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRIS-UA.exe",
-            "status": "updating"
+            "status": "online"
         },
         {
             "id": "SILENT",
@@ -15,7 +15,7 @@
             "categoryId": "bo6",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/SILENT_BO6_VISU.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/BO6_SILENT_IRIS.exe",
-            "status": "updating"
+            "status": "online"
         },
         {
             "id": "loader3",
@@ -31,7 +31,7 @@
             "categoryId": "bo6",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6loud.png",
             "downloadUrl": "https://files.anewvision.fr/ldr_Sux0YEW.exe",
-            "status": "updating"
+            "status": "online"
         },
         {
             "id": "PROGRESS",
@@ -39,7 +39,7 @@
             "categoryId": "bo6",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ext.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/PROGRESS.exe",
-            "status": "updating"
+            "status": "online"
         },
         {
             "id": "LDV2",
@@ -47,7 +47,7 @@
             "categoryId": "bo6",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ext.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/LD1027.exe",
-            "status": "updating"
+            "status": "online"
         },
         {
             "id": "AFK BOT",
