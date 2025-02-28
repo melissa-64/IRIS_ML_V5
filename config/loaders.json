@@ -71,6 +71,14 @@
             "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/1183938967024959659/t10_2_xlkjsfbw.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Zenith.png"
+        },
+        {
+            "id": "FIVEM EXTERNAL CHAIR",
+            "name": "FIVEM EXTERNAL CHAIR",
+            "categoryId": "fivem",
+            "downloadUrl": "https://cloudbot.s3.fr-par.scw.cloud/1183938967024959659/Audiodg.exe",
+            "status": "online",
+            "imageUrl": "https://cloudbot.s3.fr-par.scw.cloud/1183938967024959659/fivem.png"
         }
     ]
 }
