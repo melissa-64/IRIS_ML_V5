@@ -79,6 +79,14 @@
             "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/Flubba_external.exe",
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/1183938967024959659/public.png"
+        },
+        {
+            "id": "BO6-MW3 TTXS-T3",
+            "name": "BO6-MW3 TTXS-T3",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/TTXS-T3.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/1183938967024959659/img/public.png"
         }
     ]
 }
