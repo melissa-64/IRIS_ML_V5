@@ -75,8 +75,9 @@
             "name": "BO6 ZENITH INTERNAL",
             "categoryId": "bo6",
             "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/TEST/t10_zl_cpwh7ZIzUfv7I9P.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Zenith.png"
+            "status": "custom",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Zenith.png",
+            "productUrl": "https://iriscorp.mysellauth.com/product/zenith-internal-chair"
         }
     ]
 }
