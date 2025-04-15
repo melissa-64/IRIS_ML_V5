@@ -49,22 +49,6 @@
             "status": "online"
         },
         {
-            "id": "VALORANT EXTERNAL",
-            "name": "VALORANT EXTERNAL CHAIR",
-            "categoryId": "valorant",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT.png",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT1.1.exe",
-            "status": "updating"
-        },
-        {
-            "id": "FORTNITE EXTERNAL",
-            "name": "FORTNITE EXTERNAL CHAIR",
-            "categoryId": "fortnite",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.png",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE_UNBRANDED.exe",
-            "status": "updating"
-        },
-        {
             "id": "PC OPTIMIZER",
             "name": "IRIS PC OPTIMIZER",
             "categoryId": "others",
