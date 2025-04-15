@@ -1,6 +1,22 @@
 {
     "loaders": [
         {
+            "id": "FLUBBA EXTERNAL + SPOOFER",
+            "name": "FLUBBA EXTERNAL + SPOOFER",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/Flubba_external.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/1183938967024959659/public.png"
+        },
+        {
+            "id": "BO6-MW3 TTXS-T3",
+            "name": "BO6-MW3 TTXS-T3",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/TTXS-T3.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/1183938967024959659/img/public.png"
+        },
+        {
             "id": "UA",
             "name": "BO6 UNLOCK ALL",
             "categoryId": "bo6",
@@ -71,22 +87,6 @@
             "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/TEST/t10_zl_cpwh7ZIzUfv7I9P.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Zenith.png"
-        },
-        {
-            "id": "FLUBBA EXTERNAL + SPOOFER",
-            "name": "FLUBBA EXTERNAL + SPOOFER",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/Flubba_external.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1183938967024959659/public.png"
-        },
-        {
-            "id": "BO6-MW3 TTXS-T3",
-            "name": "BO6-MW3 TTXS-T3",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/TTXS-T3.exe",
-            "status": "online",
-            "imageUrl": "https://cloud.anewvision.fr/1183938967024959659/img/public.png"
         }
     ]
 }
