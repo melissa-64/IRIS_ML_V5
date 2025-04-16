@@ -24,7 +24,7 @@
             "categoryId": "bo6",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ua.png",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Auth_NB.exe",
-            "status": "updating"
+            "status": "offline"
         },
         {
             "id": "PROGRESS",
@@ -67,7 +67,7 @@
             "name": "BO6 FORCE SAVER",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/280388361904979970_cloud/main/t10_fs_xcvbmw_2.exe",
-            "status": "custom",
+            "status": "offline",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORCE_SAVE.png"
         },
         {
