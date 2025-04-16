@@ -1,3 +1,20 @@
 {
-    "notifications": []
+    "notifications": [
+        {
+            "id": "notif1",
+            "type": "discount",
+            "title": "30% DISCOUNT",
+            "message": "Get 30% discount on all products accros the store !",
+            "startDate": "2025-04-16T20:03:29Z",
+            "endDate": "2025-04-17T20:03:29Z",
+            "displayDuration": 5000,
+            "priority": "normal",
+            "cta": {
+                "primary": {
+                    "text": "PURCHASE",
+                    "url": "https://iriscorp.mysellauth.com/"
+                }
+            }
+        }
+    ]
 }
