@@ -3,8 +3,8 @@
         {
             "id": "notif1",
             "type": "discount",
-            "title": "30% DISCOUNT",
-            "message": "Get 30% discount on all products accros the store !",
+            "title": "SAVE 30% TODAY!",
+            "message": "Enjoy 30% off EVERYTHING in store! Limited-time exclusive offer!",
             "startDate": "2025-04-16T20:03:29Z",
             "endDate": "2025-04-17T20:03:29Z",
             "displayDuration": 5000,
