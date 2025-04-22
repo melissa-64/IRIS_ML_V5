@@ -63,14 +63,6 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
         },
         {
-            "id": "BO6 FORCE SAVE",
-            "name": "BO6 FORCE SAVE",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/280388361904979970_cloud/main/t10.exe",
-            "status": "offline",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORCE_SAVE.png"
-        },
-        {
             "id": "BO6 ZENITH INTERNAL",
             "name": "BO6 ZENITH INTERNAL",
             "categoryId": "bo6",
