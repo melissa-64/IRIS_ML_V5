@@ -36,15 +36,6 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/mw2mw3bo6-external-chair"
         },
         {
-            "id": "AFK BOT",
-            "name": "BO6 AFK BOT",
-            "categoryId": "bo6",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/afkbot.png",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISAFKBOT.exe",
-            "status": "online",
-            "productUrl": "https://iriscorp.mysellauth.com/product/afk-bot"
-        },
-        {
             "id": "PC OPTIMIZER",
             "name": "IRIS PC OPTIMIZER",
             "categoryId": "others",
