@@ -36,15 +36,6 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/mw2mw3bo6-external-chair"
         },
         {
-            "id": "LDV2",
-            "name": "BO6 EXTERNAL LDV2",
-            "categoryId": "bo6",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/bo6ext.png",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/test_to_delete/LDV2.exe",
-            "status": "updating",
-            "productUrl": "https://iriscorp.mysellauth.com/product/mw2mw3bo6-external-chair"
-        },
-        {
             "id": "AFK BOT",
             "name": "BO6 AFK BOT",
             "categoryId": "bo6",
