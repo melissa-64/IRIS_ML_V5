@@ -45,9 +45,9 @@
             "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
         },
         {
-            "id": "BO6 ZENITH INTERNAL",
+            "id": "BO6 INTERNAL",
             "name": "BO6 ZENITH INTERNAL",
-            "categoryId": "bo6",
+            "categoryId": "others",
             "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/t10_zlv2_4fc73b563524dfc.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Zenith.png",
