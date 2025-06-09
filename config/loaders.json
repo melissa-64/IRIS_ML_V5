@@ -1,13 +1,22 @@
 {
     "loaders": [
         {
-            "id": "FLUBBA EXTERNAL + SPOOFER",
-            "name": "FLUBBA EXTERNAL + SPOOFER",
+            "id": "ZENITH EXTERNAL CHAIR",
+            "name": "ZENITH EXTERNAL",
             "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/Flubba_external.exe",
-            "status": "updating",
-            "imageUrl": "https://cloud.anewvision.fr/1183938967024959659/public.png",
-            "productUrl": "https://iriscorp.mysellauth.com/product/bo6-flubba-external-spoofer"
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/t10_zl_external_6-7.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/ZE/public.png",
+            "productUrl": "https://iriscorp.mysellauth.com/product/zenith-external-chair"
+        },
+        {
+            "id": "BO6 INTERNAL",
+            "name": "BO6 ZENITH INTERNAL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/t10_zlv2_4fc73b563524dfc.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Zenith.png",
+            "productUrl": "https://iriscorp.mysellauth.com/product/zenith-internal-chair"
         },
         {
             "id": "BO6-MW3 TTXS-T3",
@@ -43,15 +52,6 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
             "status": "online",
             "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
-        },
-        {
-            "id": "BO6 INTERNAL",
-            "name": "BO6 ZENITH INTERNAL",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/t10_zlv2_4fc73b563524dfc.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/Zenith.png",
-            "productUrl": "https://iriscorp.mysellauth.com/product/zenith-internal-chair"
         }
     ]
 }
