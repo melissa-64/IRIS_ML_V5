@@ -1,15 +1,6 @@
 {
     "loaders": [
         {
-            "id": "ZENITH EXTERNAL CHAIR",
-            "name": "ZENITH EXTERNAL",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cloud.anewvision.fr/1183938967024959659/loader.exe",
-            "status": "updating",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/ZE/public.png",
-            "productUrl": "https://iriscorp.mysellauth.com/product/zenith-external-chair"
-        },
-        {
             "id": "BO6 INTERNAL",
             "name": "BO6 ZENITH INTERNAL",
             "categoryId": "bo6",
