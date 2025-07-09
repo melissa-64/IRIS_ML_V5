@@ -43,6 +43,15 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
             "status": "online",
             "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
+        },
+        {
+            "id": "BLACK EXTERNAL",
+            "name": "BLACK EXTERNAL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/280388361904979970/blackexternal.exe",
+            "status": "updating",
+            "imageUrl": "https://cloud.anewvision.fr/280388361904979970/black_external.jpg",
+            "productUrl": ""
         }
     ]
 }
