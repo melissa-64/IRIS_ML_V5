@@ -43,6 +43,15 @@
             "status": "online",
             "imageUrl": "https://cloud.anewvision.fr/280388361904979970/black_external.jpg",
             "productUrl": "https://iriscorp.mysellauth.com/product/bo6-black-external"
+        },
+        {
+            "id": "BO6 NEBULA INTERNAL",
+            "name": "BO6 NEBULA INTERNAL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/280388361904979970/Nebula_Chair.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/280388361904979970/nebula_internal.jpg",
+            "productUrl": "https://iriscorp.mysellauth.com/product/bo6-nebula-internal"
         }
     ]
 }
