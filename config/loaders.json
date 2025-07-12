@@ -52,6 +52,15 @@
             "status": "custom",
             "imageUrl": "https://cloud.anewvision.fr/280388361904979970/nebula_internal.jpg",
             "productUrl": "https://iriscorp.mysellauth.com/product/bo6-nebula-internal"
+        },
+        {
+            "id": "BO6 ZEROAIM EXTERNAL",
+            "name": "BO6 ZEROAIM EXTERNAL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/280388361904979970/ZeroAim.exe",
+            "status": "online",
+            "imageUrl": "https://cloud.anewvision.fr/280388361904979970/zeroaim.jpg",
+            "productUrl": "https://iriscorp.mysellauth.com/product/bo6-zeroaim-external"
         }
     ]
 }
