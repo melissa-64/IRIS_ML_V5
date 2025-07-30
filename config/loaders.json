@@ -61,6 +61,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": "https://iriscorp.mysellauth.com/product/bo6-aim-external"
+        },
+        {
+            "id": "BO6 ZENITH INTERNAL",
+            "name": "BO6 ZENITH INTERNAL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/280388361904979970/t10_zlv2_GSvn89oojsinzm9.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "https://iriscorp.mysellauth.com/product/zenith-internal-chair"
         }
     ]
 }
