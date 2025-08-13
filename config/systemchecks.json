@@ -4,7 +4,7 @@
             "key": "VirtualizationEnabled",
             "expectedValue": false,
             "fixable": false,
-            "enabled": true,
+            "enabled": false,
             "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/virtualization"
         },
         {
