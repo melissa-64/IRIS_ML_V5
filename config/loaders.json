@@ -73,7 +73,11 @@
             "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/t10_zlv2_1egnano35TTWLri.exe",
             "status": "online",
             "imageUrl": "",
-            "productUrl": "https://iriscorp.mysellauth.com/product/zenith-internal-chair"
+            "productUrl": "https://iriscorp.mysellauth.com/product/zenith-internal-chair",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": []
+            }
         },
         {
             "id": "IC INTERNAL CHAIR",
