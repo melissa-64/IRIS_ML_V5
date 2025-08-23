@@ -83,6 +83,15 @@
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/ic_internal.jpg",
             "productUrl": "https://iriscorp.mysellauth.com/product/ic-internal-chair"
+        },
+        {
+            "id": "LDV3",
+            "name": "LDV3",
+            "categoryId": "bo6",
+            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/Loader_LD_2.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "https://iriscorp.mysellauth.com/product/mw2mw3bo6-external-chair"
         }
     ]
 }
