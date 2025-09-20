@@ -12,7 +12,7 @@
                 "requirements": [
                     {
                         "key": "DriverBlocklist",
-                        "expectedState": true,
+                        "expectedState": false,
                         "fixable": true,
                         "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/vulnerable-drivers"
                     },
