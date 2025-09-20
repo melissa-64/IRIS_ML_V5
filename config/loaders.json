@@ -255,7 +255,11 @@
             "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/product.exe",
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/AIM_EXTERNAL.jpg",
-            "productUrl": "https://iriscorp.mysellauth.com/product/bo6-aim-external"
+            "productUrl": "https://iriscorp.mysellauth.com/product/bo6-aim-external",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": []
+            }
         },
         {
             "id": "BO6 ZENITH INTERNAL",
