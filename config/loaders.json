@@ -198,7 +198,11 @@
             "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/ZeroAim.exe",
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/zeroaim.jpg",
-            "productUrl": "https://iriscorp.mysellauth.com/product/bo6-zeroaim-external"
+            "productUrl": "https://iriscorp.mysellauth.com/product/bo6-zeroaim-external",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": []
+            }
         },
         {
             "id": "BO6 AIM EXTERNAL",
