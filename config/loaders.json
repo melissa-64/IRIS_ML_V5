@@ -48,7 +48,8 @@
                     {
                         "key": "Windows11_24H2",
                         "expectedState": false,
-                        "fixable": true
+                        "fixable": true,
+                        "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/i-am-windows-11"
                     },
                     {
                         "key": "WindowsDefender",
