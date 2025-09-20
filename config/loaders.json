@@ -426,7 +426,11 @@
             "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/Loader_LD_2.exe",
             "status": "online",
             "imageUrl": "",
-            "productUrl": "https://iriscorp.mysellauth.com/product/mw2mw3bo6-external-chair"
+            "productUrl": "https://iriscorp.mysellauth.com/product/mw2mw3bo6-external-chair",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": []
+            }
         }
     ]
 }
