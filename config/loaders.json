@@ -19,7 +19,8 @@
                     {
                         "key": "HyperV",
                         "expectedState": false,
-                        "fixable": true
+                        "fixable": true,
+                        "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/hyper-v"
                     },
                     {
                         "key": "MemoryIntegrity",
