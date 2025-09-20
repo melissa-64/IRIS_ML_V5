@@ -369,7 +369,11 @@
             "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/update.exe",
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/ic_internal.jpg",
-            "productUrl": "https://iriscorp.mysellauth.com/product/ic-internal-chair"
+            "productUrl": "https://iriscorp.mysellauth.com/product/ic-internal-chair",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": []
+            }
         },
         {
             "id": "LDV3",
