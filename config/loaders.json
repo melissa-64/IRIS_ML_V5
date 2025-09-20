@@ -12,7 +12,7 @@
                 "requirements": [
                     {
                         "key": "DriverBlocklist",
-                        "expectedState": false,
+                        "expectedState": true,
                         "fixable": true
                     },
                     {
