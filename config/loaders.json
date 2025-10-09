@@ -554,6 +554,22 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "marvel-external-chair",
+            "name": "MARVEL EXTERNAL CHAIR",
+            "categoryId": "mr",
+            "downloadUrl": "https://predator.systems/panel/subscriptions",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/marvels ext.jpg",
+            "productUrl": "https://iriscorp.store/products/marvel-rivals-external-chair",
+            "instructions": "",
+            "contentType": "web_downloadable",
+            "version": "1.0",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
