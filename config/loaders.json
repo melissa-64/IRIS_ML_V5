@@ -131,7 +131,7 @@
             "categoryId": "bo6",
             "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/BLACKEXT.exe",
             "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/black_external.jpg",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/black_external.jpg",
             "productUrl": "https://iriscorp.mysellauth.com/product/bo6-black-external",
             "systemRequirement": {
                 "enabled": true,
