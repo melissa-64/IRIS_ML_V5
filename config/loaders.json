@@ -475,6 +475,20 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "ftn-act-external-chair",
+            "name": "FTN ACT EXTERNAL CHAIR",
+            "categoryId": "fortnite",
+            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/ACT%20PRODUCT.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/FORTNITE%20EXT%20DISCO.jpg",
+            "productUrl": "https://iriscorp.store/products/fortnite-act-external-chair",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
