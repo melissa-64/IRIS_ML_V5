@@ -672,6 +672,22 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "valorant-unlocker-bypass",
+            "name": "VALORANT UNLOCKER BYPASS",
+            "categoryId": "valorant",
+            "downloadUrl": "https://dashboard.rip/register",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "https://iriscorp.store/products/valorant-unlocker-bypass",
+            "instructions": "",
+            "contentType": "web_downloadable",
+            "version": "1.0",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
