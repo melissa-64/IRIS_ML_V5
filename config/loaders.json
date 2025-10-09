@@ -254,7 +254,7 @@
             "categoryId": "bo6",
             "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/AIMEXT.exe",
             "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/AIM_EXTERNAL.jpg",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/AIM_EXTERNAL.jpg",
             "productUrl": "https://iriscorp.mysellauth.com/product/bo6-aim-external",
             "systemRequirement": {
                 "enabled": true,
