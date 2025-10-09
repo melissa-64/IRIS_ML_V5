@@ -425,7 +425,7 @@
             "categoryId": "bo6",
             "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/LDV3.exe",
             "status": "online",
-            "imageUrl": "",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/progress.jpg",
             "productUrl": "https://iriscorp.mysellauth.com/product/mw2mw3bo6-external-chair",
             "systemRequirement": {
                 "enabled": true,
