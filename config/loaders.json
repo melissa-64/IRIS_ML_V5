@@ -598,6 +598,20 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "mwiii-zenith-internal",
+            "name": "MWIII ZENITH INTERNAL",
+            "categoryId": "mw3",
+            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/MWIII_client.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/maIII zenith internal.jpg",
+            "productUrl": "https://iriscorp.store/products/mwiii-zenith-internal",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
