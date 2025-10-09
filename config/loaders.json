@@ -197,7 +197,7 @@
             "categoryId": "bo6",
             "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/ZeroAim.exe",
             "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/zeroaim.jpg",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/zeroaim.jpg",
             "productUrl": "https://iriscorp.mysellauth.com/product/bo6-zeroaim-external",
             "systemRequirement": {
                 "enabled": true,
