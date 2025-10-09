@@ -183,15 +183,6 @@
             }
         },
         {
-            "id": "BO6 NEBULA INTERNAL",
-            "name": "BO6 NEBULA INTERNAL",
-            "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/Nebula.exe",
-            "status": "offline",
-            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/nebula_internal.jpg",
-            "productUrl": "https://iriscorp.mysellauth.com/product/bo6-nebula-internal"
-        },
-        {
             "id": "BO6 ZEROAIM EXTERNAL",
             "name": "BO6 ZEROAIM EXTERNAL",
             "categoryId": "bo6",
