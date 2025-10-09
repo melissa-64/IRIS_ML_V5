@@ -504,7 +504,7 @@
             "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/cs2.jpg",
             "productUrl": "https://iriscorp.store/products/cs2-external-chair",
             "instructions": "",
-            "contentType": "web_downloadable",
+            "contentType": "web",
             "version": "1.1",
             "systemRequirement": {
                 "enabled": false,
@@ -548,7 +548,7 @@
             "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/SUSANO.jpg",
             "productUrl": "https://iriscorp.store/products/fivem-susano-chair",
             "instructions": "",
-            "contentType": "web_downloadable",
+            "contentType": "web",
             "version": "1.1",
             "systemRequirement": {
                 "enabled": false,
@@ -564,7 +564,7 @@
             "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/marvels ext.jpg",
             "productUrl": "https://iriscorp.store/products/marvel-rivals-external-chair",
             "instructions": "",
-            "contentType": "web_downloadable",
+            "contentType": "web",
             "version": "1.1",
             "systemRequirement": {
                 "enabled": false,
