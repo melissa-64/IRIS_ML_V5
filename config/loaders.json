@@ -538,6 +538,22 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "fivem-susano",
+            "name": "FIVEM SUSANO",
+            "categoryId": "fivem",
+            "downloadUrl": "https://susano.re/dashboard/download",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/SUSANO.jpg",
+            "productUrl": "https://iriscorp.store/products/fivem-susano-chair",
+            "instructions": "",
+            "contentType": "web_downloadable",
+            "version": "1.0",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
