@@ -118,6 +118,15 @@
       "isDefault": true
     },
     {
+      "id": "dz",
+      "name": "DayZ",
+      "brandColors": {
+        "primary": "#302f2d"
+      },
+      "logoUrl": "https://api.cloud.anewvision.fr/934774600171135007/ML/dz_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
       "id": "df",
       "name": "Delta Force",
       "brandColors": {
