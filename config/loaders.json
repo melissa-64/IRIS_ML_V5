@@ -612,6 +612,22 @@
                 "enabled": false,
                 "requirements": []
             }
+        },
+        {
+            "id": "r6-x-crusader-external-chair",
+            "name": "R6 X CRUSADER EXTERNAL CHAIR",
+            "categoryId": "r6",
+            "downloadUrl": "https://uniqueloader.com/r6s/",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/R6_CRUSADER.jpg",
+            "productUrl": "https://iriscorp.store/products/r6-x-crusader-external-chair",
+            "instructions": "",
+            "contentType": "web_downloadable",
+            "version": "1.0",
+            "systemRequirement": {
+                "enabled": false,
+                "requirements": []
+            }
         }
     ]
 }
