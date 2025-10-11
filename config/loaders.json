@@ -630,22 +630,6 @@
             }
         },
         {
-            "id": "r6-x-zeroday-external-chair",
-            "name": "R6 ZERODAY EXTERNAL CHAIR",
-            "categoryId": "r6",
-            "downloadUrl": "https://myloader.cc/",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/R6 ZERODAY.jpg",
-            "productUrl": "https://iriscorp.store/products/r6-x-zeroday-external-chair",
-            "instructions": "",
-            "contentType": "web_downloadable",
-            "version": "1.0",
-            "systemRequirement": {
-                "enabled": false,
-                "requirements": []
-            }
-        },
-        {
             "id": "r6-x-zeroday-unlock-all",
             "name": "R6 ZERODAY UNLOCK ALL",
             "categoryId": "r6",
