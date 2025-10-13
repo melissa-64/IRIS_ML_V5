@@ -748,6 +748,22 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "bo6-yama-internal",
+            "name": "BO6 YAMA INTERNAL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://gitbm3guglhontpdg0vt.com/sign-in",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/yama%20internal.jpg",
+            "productUrl": "https://iriscorp.store/products/bo6-yama-internal",
+            "instructions": "",
+            "contentType": "web_downloadable",
+            "version": "1.0",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": []
+            }
         }
     ]
 }
