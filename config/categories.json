@@ -10,6 +10,15 @@
       "isDefault": true
     },
     {
+      "id": "bo7",
+      "name": "Black Ops 7",
+      "brandColors": {
+        "primary": "#f96800"
+      },
+      "logoUrl": "https://api.cloud.anewvision.fr/934774600171135007/ML/bo7_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
       "id": "mw3",
       "name": "MW3",
       "brandColors": {
@@ -34,6 +43,15 @@
         "primary": "#47a6ff"
       },
       "logoUrl": "https://raw.githubusercontent.com/avod245/1314418844072153158_cloud/main/ML_CATEGORIES/mw19_ml_icon_v1.png",
+      "isDefault": true
+    },
+    {
+      "id": "fc26",
+      "name": "FC 26",
+      "brandColors": {
+        "primary": "#158791"
+      },
+      "logoUrl": "https://api.cloud.anewvision.fr/934774600171135007/ML/fc26_ml_icon_v1.png",
       "isDefault": true
     },
     {
