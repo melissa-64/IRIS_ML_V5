@@ -866,6 +866,20 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "fc26-external-chair",
+            "name": "FC26 EXTERNAL CHAIR",
+            "categoryId": "fc26",
+            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/FC26.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/fc26 ext.jpg",
+            "productUrl": "https://iriscorp.store/products/fc26-external-chair",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": []
+            }
         }
     ]
 }
