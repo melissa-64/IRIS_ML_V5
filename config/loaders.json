@@ -913,11 +913,6 @@
                         "tutorialLink": ""
                     },
                     {
-                        "key": "Windows11_24H2",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
                         "key": "WindowsDefender",
                         "expectedState": false,
                         "fixable": true
