@@ -475,63 +475,6 @@
             }
         },
         {
-            "id": "IC INTERNAL CHAIR",
-            "name": "BO6 IC INTERNAL",
-            "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/BO6INT.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/ic_internal.jpg",
-            "productUrl": "https://iriscorp.mysellauth.com/product/ic-internal-chair",
-            "systemRequirement": {
-                "enabled": true,
-                "requirements": [
-                    {
-                        "key": "DriverBlocklist",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "HyperV",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "MemoryIntegrity",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "RiotVanguard",
-                        "expectedState": false,
-                        "fixable": true,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "SecureBoot",
-                        "expectedState": false,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Virtualization",
-                        "expectedState": true,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Windows11_24H2",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "WindowsDefender",
-                        "expectedState": false,
-                        "fixable": true
-                    }
-                ]
-            }
-        },
-        {
             "id": "LDV3",
             "name": "BO6 LDV3 EXTERNAL",
             "categoryId": "bo6",
@@ -596,6 +539,63 @@
             "status": "online",
             "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/black_external.jpg",
             "productUrl": "https://iriscorp.mysellauth.com/product/bo6-black-external",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": [
+                    {
+                        "key": "DriverBlocklist",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "HyperV",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "MemoryIntegrity",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "RiotVanguard",
+                        "expectedState": false,
+                        "fixable": true,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "SecureBoot",
+                        "expectedState": false,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "Virtualization",
+                        "expectedState": true,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "Windows11_24H2",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "WindowsDefender",
+                        "expectedState": false,
+                        "fixable": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": "IC INTERNAL CHAIR",
+            "name": "BO6 IC INTERNAL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/BO6INT.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/ic_internal.jpg",
+            "productUrl": "https://iriscorp.mysellauth.com/product/ic-internal-chair",
             "systemRequirement": {
                 "enabled": true,
                 "requirements": [
