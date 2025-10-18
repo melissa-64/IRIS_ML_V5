@@ -861,6 +861,20 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "bo6-tren-external",
+            "name": "BO6 TREN EXTERNAL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/TREN.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/tren.jpg",
+            "productUrl": "https://iriscorp.store/products/bo6-wz4-inferno-chair",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": []
+            }
         }
     ]
 }
