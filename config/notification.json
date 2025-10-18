@@ -2,17 +2,17 @@
     "notifications": [
         {
             "id": "notif1",
-            "type": "discount",
-            "title": "SAVE 30% TODAY!",
-            "message": "Enjoy 30% off EVERYTHING in store! Limited-time exclusive offer!",
-            "startDate": "2025-04-16T20:03:29Z",
-            "endDate": "2025-04-17T20:03:29Z",
+            "type": "announcement",
+            "title": "TREN EXTERNAL W SHADOW BYPASS",
+            "message": "TREN EXTERNAL just added to the shop with Built-In Shadow Bypass. Reduced shadow-ban risk. Stream-safe. Controller native.",
+            "startDate": "2025-10-18T22:57:13Z",
+            "endDate": "2025-10-20T22:57:13Z",
             "displayDuration": 5000,
-            "priority": "normal",
+            "priority": "high",
             "cta": {
                 "primary": {
-                    "text": "PURCHASE",
-                    "url": "https://iriscorp.mysellauth.com/"
+                    "text": "PURCHASE HERE",
+                    "url": "https://iriscorp.store/products/bo6-wz4-inferno-chair"
                 }
             }
         }
