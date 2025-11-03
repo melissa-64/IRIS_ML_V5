@@ -805,6 +805,20 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "bo6-spectre-external",
+            "name": "BO6 SPECTRE EXTERNAL",
+            "categoryId": "bo6",
+            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/SPECTRE.exe",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/spectre external.jpg",
+            "productUrl": "https://iriscorp.store/products/bo6-spectre-external",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": []
+            }
         }
     ]
 }
