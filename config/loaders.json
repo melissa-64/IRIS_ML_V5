@@ -1,63 +1,6 @@
 {
     "loaders": [
         {
-            "id": "BO6 ZEROAIM EXTERNAL",
-            "name": "BO6 ZEROAIM EXTERNAL",
-            "categoryId": "bo6",
-            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/ZeroAim.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/zeroaim.jpg",
-            "productUrl": "https://iriscorp.mysellauth.com/product/bo6-zeroaim-external",
-            "systemRequirement": {
-                "enabled": true,
-                "requirements": [
-                    {
-                        "key": "DriverBlocklist",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "HyperV",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "MemoryIntegrity",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "RiotVanguard",
-                        "expectedState": false,
-                        "fixable": true,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "SecureBoot",
-                        "expectedState": false,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Virtualization",
-                        "expectedState": true,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Windows11_24H2",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "WindowsDefender",
-                        "expectedState": false,
-                        "fixable": true
-                    }
-                ]
-            }
-        },
-        {
             "id": "BO6 AIM EXTERNAL",
             "name": "BO6 AIM EXTERNAL",
             "categoryId": "bo6",
