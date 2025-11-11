@@ -1,66 +1,6 @@
 {
     "loaders": [
         {
-            "id": "bo6-liora-internal",
-            "name": "BO6 LIORA INTERNAL",
-            "categoryId": "bo6",
-            "downloadUrl": "https://gitbm3guglhontpdg0vt.com/sign-in",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/liora internal.jpg",
-            "productUrl": "https://iriscorp.store/products/bo6-liora-internal",
-            "instructions": "",
-            "contentType": "web_downloadable",
-            "version": "1.0",
-            "systemRequirement": {
-                "enabled": true,
-                "requirements": [
-                    {
-                        "key": "DriverBlocklist",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "HyperV",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "MemoryIntegrity",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "RiotVanguard",
-                        "expectedState": false,
-                        "fixable": true,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "SecureBoot",
-                        "expectedState": false,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Virtualization",
-                        "expectedState": true,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Windows11_24H2",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "WindowsDefender",
-                        "expectedState": false,
-                        "fixable": true
-                    }
-                ]
-            }
-        },
-        {
             "id": "PROGRESS",
             "name": "BO6 PROGRESS EXTERNAL",
             "categoryId": "bo6",
